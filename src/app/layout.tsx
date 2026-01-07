@@ -14,9 +14,23 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+// --- UPDATED SEO SECTION ---
 export const metadata: Metadata = {
-  title: "Dental Clinic - Demo",
-  description: "Luxury dental clinic website featuring elegant design with Next.js, TailwindCSS, and seamless appointment booking system. Built with modern tech stack and premium aesthetics.",
+  // 1. The Title: Put your city and main service first.
+  title: "Top-Rated Dentist in [Your City] | [Your Clinic Name]",
+  
+  // 2. The Description: Use keywords like "emergency," "family," or "implants."
+  description: "Experience premium dental care at [Your Clinic Name] in [Your City]. We offer family dentistry, teeth whitening, and emergency dental services. Book your appointment today!",
+  
+  // 3. Open Graph: This makes your site look professional when shared on Facebook/WhatsApp
+  openGraph: {
+    title: "[Your Clinic Name] | Family Dentistry in [Your City]",
+    description: "Accepting new patients! Modern dental care in the heart of [Your City].",
+    type: "website",
+    locale: "en_US",
+    url: "https://www.yourdomain.com",
+    siteName: "[Your Clinic Name]",
+  },
 };
 
 export default function RootLayout({
