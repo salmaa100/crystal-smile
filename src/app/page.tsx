@@ -71,9 +71,9 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="font-heading text-4xl text-black mb-6">Welcome to WhitePearl Dental</h2>
+              <h2 className="font-heading text-4xl text-black mb-6">Welcome to Crystal Smile Dental Clinic</h2>
               <p className="font-body text-lg text-black mb-8 leading-relaxed">
-                At WhitePearl, we believe in delivering more than just dental care we create confident smiles that leave lasting impressions. Our state-of-the-art facility combines luxury with cutting-edge technology to provide an unparalleled dental experience.
+                At Crystal Smile, we provide premium dental care at the heart of Rehab City. Our Gateway Mall facility combines luxury with cutting-edge technology to provide an unparalleled experience for the whole family.
               </p>
               <Link 
                 href="/about"
@@ -85,7 +85,7 @@ export default function Home() {
             <div className="relative h-[600px]">
               <Image
                 src="/assets/images/welcome.jpg"
-                alt="Luxury Dental Office"
+                alt="Modern Dental Treatment Clinic in Cairo Rehab"
                 fill
                 className="object-cover rounded-lg"
               />
