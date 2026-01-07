@@ -14,22 +14,20 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-// --- UPDATED SEO SECTION ---
 export const metadata: Metadata = {
-  // 1. The Title: Put your city and main service first.
-  title: "Top-Rated Dentist in [Your City] | [Your Clinic Name]",
+  title: "Top-Rated Dentist in Cairo Rehab | Crystal Smile Dental Clinic",
   
   // 2. The Description: Use keywords like "emergency," "family," or "implants."
-  description: "Experience premium dental care at [Your Clinic Name] in [Your City]. We offer family dentistry, teeth whitening, and emergency dental services. Book your appointment today!",
+  description: "Crystal Smile offers premium dental care in Cairo Rehab Gateway Mall. From Digital Smile Design and Dental Implants to painless children's dentistry. Book your appointment today for a healthy, confident smile."
   
   // 3. Open Graph: This makes your site look professional when shared on Facebook/WhatsApp
   openGraph: {
-    title: "[Your Clinic Name] | Family Dentistry in [Your City]",
-    description: "Accepting new patients! Modern dental care in the heart of [Your City].",
+    title: "Crystal Smile Dental Clinic | Family Dentistry in Cairo Rehab Gateway Mall",
+    description: "Accepting new patients! Modern dental care in the heart of Rehab.",
     type: "website",
     locale: "en_US",
-    url: "https://www.yourdomain.com",
-    siteName: "[Your Clinic Name]",
+    url: "https://www.CrystalSmileRehab.com",
+    siteName: "Crystal Smile Dental Clinic",
   },
 };
 
