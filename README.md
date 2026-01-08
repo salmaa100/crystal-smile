@@ -1,4 +1,4 @@
-# 🦷 WhitePearl Dental Clinic Website  
+# 🦷 Crystal Smile Dental Clinic Website  
 
 A luxury **dental clinic website** built with **Next.js** and **TailwindCSS**, featuring an elegant **black, white, and gold** design.
 
