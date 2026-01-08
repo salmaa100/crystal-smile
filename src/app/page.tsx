@@ -191,7 +191,7 @@ export default function Home() {
             {[
               {
                 name: "Sarah Johnson",
-                text: "The level of care and attention to detail at WhitePearl is exceptional. I couldn&apos;t be happier with my results!",
+                text: "The level of care and attention to detail at Crystal Smile is exceptional. I couldn&apos;t be happier with my results!",
                 role: "Executive"
               },
               {
