@@ -98,7 +98,7 @@ export default function Footer() {
               <li className="flex items-center space-x-3">
                 <RiMapPin2Line className="w-5 h-5 text-primary-gold" />
                 <span className="font-ui text-sm text-white">
-                  123 Luxury Lane, Beverly Hills, CA 90210
+                  Gateway Mall, Rehab City, Cairo.
                 </span>
               </li>
               <li className="flex items-center space-x-3">
