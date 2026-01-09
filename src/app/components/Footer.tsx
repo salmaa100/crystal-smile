@@ -14,7 +14,7 @@ export default function Footer() {
           {/* Clinic Info */}
           <div className="space-y-4">
             <h3 className="font-heading text-2xl text-white">
-              WhitePearl
+              Crystal Smile
             </h3>
             <p className="font-body text-sm text-white">
               Luxury dental care for those who appreciate excellence in dental health and aesthetics.
@@ -109,8 +109,8 @@ export default function Footer() {
               </li>
               <li className="flex items-center space-x-3">
                 <RiMailLine className="w-5 h-5 text-primary-gold" />
-                <a href="mailto:info@whitepearl.com" className="font-ui text-sm text-white hover:text-primary-gold transition-colors">
-                  info@whitepearl.com
+                <a href="mailto:info@crystalsmile.com" className="font-ui text-sm text-white hover:text-primary-gold transition-colors">
+                  info@crystalsmile.com
                 </a>
               </li>
             </ul>
@@ -120,7 +120,7 @@ export default function Footer() {
         {/* Copyright */}
         <div className="mt-12 pt-8 border-t border-primary-gold/20">
           <p className="text-center text-sm font-ui text-white">
-            © {currentYear} WhitePearl Dental Clinic. All rights reserved.
+            © {currentYear} Crystal Smile Dental Clinic. All rights reserved.
           </p>
           <p className="text-center text-sm font-ui text-white mt-2">
             Made with ❤️ by <a 
