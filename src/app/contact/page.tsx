@@ -44,7 +44,7 @@ export default function Contact() {
         <div className="absolute inset-0 z-0">
           <Image
             src="/assets/images/contact-hero.jpg"
-            alt="Contact WhitePearl Dental"
+            alt="Contact Crystal Smile Dental"
             fill
             className="object-cover opacity-30"
             priority
@@ -204,8 +204,8 @@ export default function Contact() {
                     <RiMailLine className="w-6 h-6 text-primary-gold flex-shrink-0 mt-1" />
                     <div className="ml-4">
                       <p className="font-ui text-sm text-black font-medium mb-1">Email</p>
-                      <a href="mailto:info@whitepearl.com" className="font-body text-black hover:text-primary-gold transition-colors">
-                        info@whitepearl.com
+                      <a href="mailto:info@crystalsmile.com" className="font-body text-black hover:text-primary-gold transition-colors">
+                        info@crystalsmile.com
                       </a>
                     </div>
                   </div>
