@@ -59,7 +59,7 @@ export default function About() {
         <div className="absolute inset-0 z-0">
           <Image
             src="/assets/images/about-hero.jpg"
-            alt="WhitePearl Dental Clinic"
+            alt="Crystal Smile Dental Clinic"
             fill
             className="object-cover opacity-50"
             priority
@@ -77,7 +77,7 @@ export default function About() {
               <span className="block">Dental Care</span>
             </h1>
             <p className="font-body text-lg text-white mb-8 leading-relaxed">
-              At WhitePearl, we combine artistry with advanced dentistry to deliver exceptional care in a luxurious environment.
+              At Crystal Smile, we combine artistry with advanced dentistry to deliver exceptional care in a luxurious environment.
             </p>
           </motion.div>
         </div>
@@ -96,7 +96,7 @@ export default function About() {
               <h2 className="font-heading text-3xl lg:text-4xl text-black mb-6">Our Legacy of Excellence</h2>
               <div className="space-y-6">
                 <p className="font-body text-black">
-                  Founded in 2008, WhitePearl Dental Clinic has established itself as Beverly Hills&apos; premier destination for luxury dental care. Our journey began with a vision to transform the dental experience into something extraordinary.
+                  Founded in 2008, Crystal Smile Dental Clinic has established itself as Beverly Hills&apos; premier destination for luxury dental care. Our journey began with a vision to transform the dental experience into something extraordinary.
                 </p>
                 <p className="font-body text-black">
                   Over the years, we&apos;ve consistently invested in cutting-edge technology and assembled a team of world-class professionals, setting new standards in dental excellence.
@@ -115,7 +115,7 @@ export default function About() {
             >
               <Image
                 src="/assets/images/clinic-exterior.jpg"
-                alt="WhitePearl Dental Clinic Exterior"
+                alt="Crystal Smile Dental Clinic Exterior"
                 fill
                 className="object-cover"
               />
@@ -272,7 +272,7 @@ export default function About() {
       <section className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="font-heading text-3xl lg:text-4xl text-black mb-6">
-            Experience the WhitePearl Difference
+            Experience the Crystal Smile Difference
           </h2>
           <p className="font-body text-lg text-black mb-8 max-w-2xl mx-auto">
             Join us for a consultation and discover why we&apos;re Beverly Hills&apos; premier choice for luxury dental care.
