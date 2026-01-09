@@ -30,7 +30,7 @@ export default function Navbar() {
               whileHover={{ scale: 1.02 }}
               className="text-3xl font-heading font-normal text-black tracking-wide"
             >
-              WhitePearl
+              Crystal Smile
             </motion.span>
           </Link>
 
